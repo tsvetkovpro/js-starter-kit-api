@@ -1,0 +1,6 @@
+{
+  "name": "js-starter-kit-api",
+  "description": "A simple API built in Node and Express hosted on Heroku",
+  "repository": "https://github.com/tsvetkovpro/js-starter-kit-api.git",
+  "keywords": ["node", "express", "static"]
+}
